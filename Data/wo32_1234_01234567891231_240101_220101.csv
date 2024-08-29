@@ -1,0 +1,7 @@
+serial,printTime,PrintStatus,verifyTime,verifyStatus
+1111,,F,,NOT USED
+1233,,,,NOT USED
+1253,,,,NOT USED
+2222,,T,,PRINTED
+3333,,T,,ACCEPTED
+4444,,T,,REJECTED

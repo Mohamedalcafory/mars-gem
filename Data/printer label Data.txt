@@ -1,0 +1,8 @@
+Batch line variable name : BATCH
+gtin line Variable name : GTIN
+expiry line Variable name :EXP
+manf line variable name : MFG
+price line variable name : variable_data
+
+
+DM Data arrangement : ]d2GTIN10BATCH\1DExpiry21Serial
